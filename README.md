@@ -18,6 +18,11 @@ Download dataset from https://drive.google.com/file/d/1oTtLOOb0mAUO_yayhHi7k9dKd
 1. pip install -r requirements.txt
 2. Copy and overwrite the files in "changed_torchvision/" to "torchvision/".
 
-# 
+# Image generation
+Set parameters in "create_synthetic_image.py" and run it. In our experiments, we generate images until we have 100 training images and set training epochs to 300.
 
 # Training and evaluation
+Set parameters in "main.py" and run it.
+
+# Model weights of proposed methods used in our experiments.
+5 shot: .
