@@ -3,7 +3,7 @@ Here are some important folder and file locations:
 - FSS_implantation/
   - dataset/
     - multi_thread_flexible_electrode/
-    - create_synthetic_image.py
+      - create_synthetic_image.py
   - FSS_Hooking/
     - changed_torchvision/
     - main.py
