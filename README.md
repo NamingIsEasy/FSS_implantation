@@ -1,3 +1,6 @@
+# Introduction
+This is the implementation of under-reviewed paper "An Intelligent Microscope Vision System for Hooking Multi-thread Flexible Microelectrode Based on Few-shot Segmentation".
+
 # File structure
 Here are some important folder and file locations:
 - FSS_implantation/
